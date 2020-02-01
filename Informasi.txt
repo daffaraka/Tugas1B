@@ -1,0 +1,2 @@
+Database yang sudah saya ekspor ada di folder :
+database/laravelcrud.sql
